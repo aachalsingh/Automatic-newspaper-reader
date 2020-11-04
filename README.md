@@ -1,1 +1,1 @@
-# Automatic-newspaper-reader
+# Newspaper-reader
