@@ -1,4 +1,4 @@
-#padh ke snao  #installing module pywin32
+  #installing module pywin32
 def speak(str):
     from win32com.client import Dispatch
     speak=Dispatch("SAPI.spVoice")
